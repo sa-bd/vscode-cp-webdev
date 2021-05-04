@@ -28,6 +28,14 @@ In this event, you will learn how you can use the unique features of VS Code for
 - Introduction to **Web Development**
 - **VS Code Extensions** for web development
 
+## :books: Event Handbook 
+### Grab the **exclusive handbook** and set up your VS Code for C++ programming environment today!
+
+
+<a download="Handbook-Link" href="https://github.com/sa-bd/vscode-cp-webdev/raw/main/Resources/handbook/VS-Code-for-CP-Handbook.pdf" title="Download Handbook">
+    <img alt="Download" src="Assets/btn.png" width="172" height="50">
+</a>
+
 <br>
 
 ## :movie_camera: Event Recording
