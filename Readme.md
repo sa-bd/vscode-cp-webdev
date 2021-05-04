@@ -32,7 +32,7 @@ In this event, you will learn how you can use the unique features of VS Code for
 
 ## :movie_camera: Event Recording
 
-[Playlist](#) ~~available on **YouTube**~~ to Be added
+[Playlist](https://youtu.be/YtDXX9l8yGk) available on **YouTube**
 
 ## :star: Credits
 Speakers and Organizers : <br>
