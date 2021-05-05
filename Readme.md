@@ -40,10 +40,9 @@ In this event, you will learn how you can use the unique features of VS Code for
 
 ## :movie_camera: Event Recording
 
-[Playlist](https://youtu.be/YtDXX9l8yGk) available on **YouTube**
+[Playlist](https://youtube.com/playlist?list=PLIQ7u2lvft7wZhWqMb3p0TDtq9bp4IfAR) available on **YouTube**
 
 ## :star: Credits
 Speakers and Organizers : <br>
 		- [Shoaib Ahmed](https://github.com/edge555) (Ambassador) <br>
 		- [Nawrin Tabassum](https://github.com/Nawrin14) (Ambassador) <br>
-
